@@ -1,0 +1,17 @@
+C:\Users\Luan\Desktop\Projeto\Condominium\api\Condominium.Infrastructure\bin\Debug\net8.0\Condominium.Infrastructure.deps.json
+C:\Users\Luan\Desktop\Projeto\Condominium\api\Condominium.Infrastructure\bin\Debug\net8.0\Condominium.Infrastructure.runtimeconfig.json
+C:\Users\Luan\Desktop\Projeto\Condominium\api\Condominium.Infrastructure\bin\Debug\net8.0\Condominium.Infrastructure.dll
+C:\Users\Luan\Desktop\Projeto\Condominium\api\Condominium.Infrastructure\bin\Debug\net8.0\Condominium.Infrastructure.pdb
+C:\Users\Luan\Desktop\Projeto\Condominium\api\Condominium.Infrastructure\bin\Debug\net8.0\Condominium.Domain.dll
+C:\Users\Luan\Desktop\Projeto\Condominium\api\Condominium.Infrastructure\bin\Debug\net8.0\Condominium.Domain.pdb
+C:\Users\Luan\Desktop\Projeto\Condominium\api\Condominium.Infrastructure\obj\Debug\net8.0\Condominium.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Luan\Desktop\Projeto\Condominium\api\Condominium.Infrastructure\obj\Debug\net8.0\Condominium.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luan\Desktop\Projeto\Condominium\api\Condominium.Infrastructure\obj\Debug\net8.0\Condominium.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Luan\Desktop\Projeto\Condominium\api\Condominium.Infrastructure\obj\Debug\net8.0\Condominium.Infrastructure.AssemblyInfo.cs
+C:\Users\Luan\Desktop\Projeto\Condominium\api\Condominium.Infrastructure\obj\Debug\net8.0\Condominium.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Luan\Desktop\Projeto\Condominium\api\Condominium.Infrastructure\obj\Debug\net8.0\Condomin.2CED46F5.Up2Date
+C:\Users\Luan\Desktop\Projeto\Condominium\api\Condominium.Infrastructure\obj\Debug\net8.0\Condominium.Infrastructure.dll
+C:\Users\Luan\Desktop\Projeto\Condominium\api\Condominium.Infrastructure\obj\Debug\net8.0\refint\Condominium.Infrastructure.dll
+C:\Users\Luan\Desktop\Projeto\Condominium\api\Condominium.Infrastructure\obj\Debug\net8.0\Condominium.Infrastructure.pdb
+C:\Users\Luan\Desktop\Projeto\Condominium\api\Condominium.Infrastructure\obj\Debug\net8.0\Condominium.Infrastructure.genruntimeconfig.cache
+C:\Users\Luan\Desktop\Projeto\Condominium\api\Condominium.Infrastructure\obj\Debug\net8.0\ref\Condominium.Infrastructure.dll

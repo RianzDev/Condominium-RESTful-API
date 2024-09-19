@@ -1,0 +1,6 @@
+@Condominium.API_HostAddress = http://localhost:5064
+
+GET {{Condominium.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

@@ -1,0 +1,11 @@
+C:\Users\Luan\Desktop\Projeto\Condominium\api\Condominium.Domain\obj\Debug\net8.0\Condominium.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luan\Desktop\Projeto\Condominium\api\Condominium.Domain\obj\Debug\net8.0\Condominium.Domain.AssemblyInfoInputs.cache
+C:\Users\Luan\Desktop\Projeto\Condominium\api\Condominium.Domain\obj\Debug\net8.0\Condominium.Domain.AssemblyInfo.cs
+C:\Users\Luan\Desktop\Projeto\Condominium\api\Condominium.Domain\obj\Debug\net8.0\Condominium.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Luan\Desktop\Projeto\Condominium\api\Condominium.Domain\bin\Debug\net8.0\Condominium.Domain.deps.json
+C:\Users\Luan\Desktop\Projeto\Condominium\api\Condominium.Domain\bin\Debug\net8.0\Condominium.Domain.dll
+C:\Users\Luan\Desktop\Projeto\Condominium\api\Condominium.Domain\bin\Debug\net8.0\Condominium.Domain.pdb
+C:\Users\Luan\Desktop\Projeto\Condominium\api\Condominium.Domain\obj\Debug\net8.0\Condominium.Domain.dll
+C:\Users\Luan\Desktop\Projeto\Condominium\api\Condominium.Domain\obj\Debug\net8.0\refint\Condominium.Domain.dll
+C:\Users\Luan\Desktop\Projeto\Condominium\api\Condominium.Domain\obj\Debug\net8.0\Condominium.Domain.pdb
+C:\Users\Luan\Desktop\Projeto\Condominium\api\Condominium.Domain\obj\Debug\net8.0\ref\Condominium.Domain.dll
