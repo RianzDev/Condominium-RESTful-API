@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Condominuim.Aplication")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d1a162b522a499e76147f66a5efcdb513f5a72ee")]
 [assembly: System.Reflection.AssemblyProductAttribute("Condominuim.Aplication")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Condominuim.Aplication")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
