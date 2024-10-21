@@ -5,7 +5,7 @@ namespace Condominium.Domain.Interfaces;
 public interface IPeopleRepository{
 
 
-    List<People> GetAll();
+    IEnumerable<People> GetAll();
     People? GetById(int id);
     void Create(People people);
     void Update(People people);

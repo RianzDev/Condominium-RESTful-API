@@ -15,3 +15,4 @@ C:\Users\Luan\Desktop\Projeto\Condominium\api\Condominium.Infrastructure\obj\Deb
 C:\Users\Luan\Desktop\Projeto\Condominium\api\Condominium.Infrastructure\obj\Debug\net8.0\Condominium.Infrastructure.pdb
 C:\Users\Luan\Desktop\Projeto\Condominium\api\Condominium.Infrastructure\obj\Debug\net8.0\Condominium.Infrastructure.genruntimeconfig.cache
 C:\Users\Luan\Desktop\Projeto\Condominium\api\Condominium.Infrastructure\obj\Debug\net8.0\ref\Condominium.Infrastructure.dll
+C:\Users\Luan\Desktop\Projeto\Condominium\api\Condominium.Infrastructure\obj\Debug\net8.0\Condominium.Infrastructure.sourcelink.json

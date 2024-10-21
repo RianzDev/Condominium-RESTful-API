@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Condominium.API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d1a162b522a499e76147f66a5efcdb513f5a72ee")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8cd1f1d3b726035d3b1b4756e2bd0a7c41dbe7b4")]
 [assembly: System.Reflection.AssemblyProductAttribute("Condominium.API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Condominium.API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

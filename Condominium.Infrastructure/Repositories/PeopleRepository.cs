@@ -2,6 +2,7 @@ using System.Data.Common;
 using Condominium.Domain.Interfaces;
 using Condominium.Domain.Models;
 using Condominium.Infrastructure.Data;
+using Microsoft.EntityFrameworkCore;
 
 
 namespace Condominium.Infrastructure.Repositories;
@@ -10,7 +11,7 @@ namespace Condominium.Infrastructure.Repositories;
 public class PeopleRepository : IPeopleRepository
 {
     private readonly AppDbContext _db;
-    public PeopleRepository(AppDbContext db)
+     public PeopleRepository(AppDbContext db)
     {
         _db=db;
     }
@@ -26,16 +27,14 @@ public class PeopleRepository : IPeopleRepository
         _db.SaveChanges();
     }
 
-    public List<People> GetAll()
+    public IEnumerable<People> GetAll()
     {
-        List<People> peoples = _db.Peoples.ToList();
-        return peoples;
+        return  _db.Peoples.ToList();
     }
 
     public People? GetById(int id)
     {
-            People? people = _db.Peoples.Find(id);
-            return people;
+        return _db.Peoples.FirstOrDefault(x => x.Id == id);
     }
 
     public void Update(People people)
@@ -43,4 +42,7 @@ public class PeopleRepository : IPeopleRepository
         _db.Peoples.Update(people);
         _db.SaveChanges();
     }
+
+    
 }
+
