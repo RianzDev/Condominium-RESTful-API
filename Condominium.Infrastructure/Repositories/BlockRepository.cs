@@ -3,6 +3,7 @@ using System.Data.Common;
 using Condominium.Domain.Interfaces;
 using Condominium.Domain.Models;
 using Condominium.Infrastructure.Data;
+using Microsoft.EntityFrameworkCore;
 
 
 namespace Condominium.Infrastructure.Repositories;
@@ -36,6 +37,13 @@ public class BlockRepository : IBlockRepository{
     public Block GetById(int id)
     {
         return _db.Blocks.Find(id);
+    }
+
+    public Block GetByIdWithApartaments(int id)
+    {
+        
+        Block block = _db.Blocks.Include(b => b.Apartments).FirstOrDefault(b => b.Id == id );
+        return block;
     }
 
     public void Update(Block block)

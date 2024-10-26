@@ -7,6 +7,7 @@ public interface IBlockRepository{
 
     IEnumerable<Block> GetAll();
     Block GetById(int id);   
+    Block GetByIdWithApartaments(int id);    
     void Create(Block block);
     void Update(Block block);
     void Delete(Block block );

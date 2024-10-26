@@ -12,6 +12,11 @@ builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 builder.Services.AddDbContext<AppDbContext>(options => options.UseMySql(connection,ServerVersion.AutoDetect(connection)));
 builder.Services.AddScoped<IPeopleRepository,PeopleRepository>();
+builder.Services.AddScoped<IBlockRepository,BlockRepository>();
+builder.Services.AddScoped<IApartamentRepository,ApartamentRepository>();
+
+
+
 var app = builder.Build();
 
 if (app.Environment.IsDevelopment())
